@@ -1,0 +1,12 @@
+VibeArchiver - Dependencies
+===========================
+
+External NuGet Packages: NONE
+
+Built-in Frameworks Used:
+- Microsoft.NET.Sdk (project SDK)
+- System.Text.Json (built into .NET 8, used for JSON serialization)
+- System.Windows.Forms (built into .NET 8 Windows Desktop)
+- System.Drawing (built into .NET 8 Windows Desktop)
+
+Target Framework: net8.0-windows

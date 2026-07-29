@@ -1,0 +1,8 @@
+bin/
+obj/
+publish/
+*.exe
+*.pdb
+*.dll
+*.runtimeconfig.json
+*.deps.json
